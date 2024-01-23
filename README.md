@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @erik365online
-- 👀 I’m interested in Microsoft Teams and Microsoft 365. Especially scripting things using PowerShell.
+- 👀 I’m interested in Microsoft Teams and Microsoft 365.
 - 📫 Follow me around on my blog https://www.erik365.blog or check out other places where you can find me https://bio.link/erik365online
 
 <!---
